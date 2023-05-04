@@ -108,3 +108,11 @@ Be careful, when you want to select a specific MechaWiggler pattern, you have to
 |isModeE3LiveRom|???|
 |isModeE3MovieRom|Hide HUD and mod menu|
 |isModeEpdMovieRom|???|
+
+## Known bugs
+
+Generally, story moons provoke bugs, so be careful.  
+
+- Bowser's Kingdom :
+	- 1st story moon has no cinematic
+	- If you die after the 1st story moon, even if you re-take this story moon, you won't be able to get past it : the bridge does not deploy and the gates does not open anymore. If you have a teleportation point after this moon, you'll be able to continue but you won't have to take the moon shards, the moon is already waiting for you.
