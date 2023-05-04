@@ -34,6 +34,7 @@ In this guide, I will assume that you know how to use a computer, how to use a F
 - You should have a "Practice" mod listed. To **enable** it, **press A**. To **disable** it, **press X**
 
 ### Commands
+
 |Control|Mod menu status|Description|
 |-----|-----|-----|
 |L + Left D-Pad|x|Show / hide mod menu|
@@ -45,6 +46,7 @@ In this guide, I will assume that you know how to use a computer, how to use a F
 |Down D-Pad|Hidden|???|
 
 ### Options
+
 |Name|Enabled by default|Description|
 |-----|-----|-----|
 |Should Render|Yes|???|
@@ -59,6 +61,7 @@ In this guide, I will assume that you know how to use a computer, how to use a F
 |D-Pad Up: Reload Scene|Yes|Reload the current scene (usually, the current kingdom)|
 
 ### Stages
+
 |Name|Corresponding Kingdom|
 |-----|-----|
 |CapWorldHomeStage|Cap Kingdom|
@@ -95,6 +98,7 @@ I will not describe every miscellaneous possibilities, since they are quite obvi
 Be careful, when you want to select a specific MechaWiggler pattern, you have to use D-Pad Left, since the selector is on "Reload scene" and "Wiggler Pattern" at the same moment.
 
 ### Modes
+
 |Name|Description|
 |-----|-----|
 |isModeDiverOrJungleGymRom|Hide HUD and mod menu|
