@@ -37,13 +37,14 @@ In this guide, I will assume that you know how to use a computer, how to use a F
 
 |Control|Mod menu status|Description|
 |-----|-----|-----|
-|L + Left D-Pad|x|Show / hide mod menu|
-|D-Pad|Displayed|Navigate through the mod menus and options|
-|Right D-Pad|Displayed|Validate / change the choice of an option|
-|Left D-Pad|Hidden|Save Mario's current position|
-|Right D-Pad|Hidden|Teleport Mario to previously saved position|
-|Up D-Pad|Hidden|Reload current scene / Kill Mario (depends on which options is enabled, by default it's "Reload current scene")|
-|Down D-Pad|Hidden|???|
+|<img src="https://static-00.iconduck.com/assets.00/alpha-l-box-icon-512x512-1k4kb0sh.png" style="width: 32px; height:32px;"/> + <img src="https://static-00.iconduck.com/assets.00/dpad-left001-icon-512x512-8kmssg05.png" style="width: 32px; height: 32px;"/>|x|Show / hide mod menu|
+|<img src="https://static-00.iconduck.com/assets.00/alpha-l-box-icon-512x512-1k4kb0sh.png" style="width: 32px; height:32px;"/> + <img src="https://static-00.iconduck.com/assets.00/dpad-right001-icon-512x512-xjm58nfu.png" style="width: 32px; height: 32px;"/>|x|Enable / disable the mod|
+|<img src="img/dpad.png" style="width: 32px; height: 32px;"/>|Displayed|Navigate through the mod menus and options|
+|<img src="https://static-00.iconduck.com/assets.00/dpad-right001-icon-512x512-xjm58nfu.png" style="width: 32px; height: 32px;"/>|Displayed|Validate / change the choice of an option|
+|<img src="https://static-00.iconduck.com/assets.00/dpad-left001-icon-512x512-8kmssg05.png" style="width: 32px; height: 32px;"/>|Hidden|Save Mario's current position|
+|<img src="https://static-00.iconduck.com/assets.00/dpad-right001-icon-512x512-xjm58nfu.png" style="width: 32px; height: 32px;"/>|Hidden|Teleport Mario to previously saved position|
+|<img src="https://static-00.iconduck.com/assets.00/dpad-up001-icon-512x512-iwiq9qii.png" style="width: 32px; height: 32px;"/>|Hidden|Reload current scene / Kill Mario (depends on which options is enabled, by default it's "Reload current scene")|
+|<img src="https://static-00.iconduck.com/assets.00/dpad-down001-icon-512x512-wclbenmb.png" style="width: 32px; height: 32px;"/>|Hidden|???|
 
 ### Options
 
