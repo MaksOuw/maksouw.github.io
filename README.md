@@ -28,6 +28,11 @@ And then, install the mod :
 - Disconnect the FTP from your client
 - Stop ftpd on your switch
 
+### Activation
+- Launch [Simple Mod Manager](https://github.com/nadrino/SimpleModManager)
+- Go to "Super Mario Odyssey"
+- Enable "Practice"
+
 ## Usage
 ### Pre requisites
 - A save file where **Cascade Kingdom** is ended (the Odyssey was activated and you went to **Sand Kingdom**)
