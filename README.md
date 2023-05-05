@@ -14,6 +14,11 @@ In this guide, I will assume that you know how to use a computer, how to use a F
 - [smo-practice](https://github.com/Tischel/smo-practice) by Fruityloops1, enhanced by MonsterDruide1 / Ontwikseltsaar / Tischel
 
 ### Installation
+Before any installation, you have to remove the SMO mod folder if you already tried to install another version of the mod : 
+- Delete `/atmosphere/contents/0100000000010000` folder
+- Delete `/atmosphere/exefs_patch/practice-mod` folder
+
+And then, install the mod : 
 - Get the last release of [smo-practice](https://github.com/Tischel/smo-practice) [here](https://github.com/Tischel/smo-practice/releases) (1.0.1 at the moment of writing this guide). You should have a `atmosphere.zip` file
 - Extract the content of `atmosphere.zip` file on your computer  
 (!) macOS users, be careful : when extracting, macOS adds shitty hidden `.DS_Store` files. You need to remove them, otherwise the game will not launch after enabling the mod (!)  
